@@ -30,3 +30,8 @@
 }
 
 /* End of Nav Styles */
+/* Background image */
+body {
+    background-image: url("../images/marvel_background.jpg");
+    background-color: yellow;
+}
